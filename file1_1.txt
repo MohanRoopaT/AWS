@@ -1,3 +1,4 @@
 hi
 file created in branch1 in local repo
-
+push the code from local repo to remote repo for branch1 
+then pulled the code to main branch in github
